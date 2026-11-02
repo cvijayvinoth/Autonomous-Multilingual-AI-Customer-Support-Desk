@@ -7,9 +7,7 @@ An enterprise-grade, multi-agent customer support desk built with **Microsoft Au
 ## 📺 Project Demo & Visuals
 
 ### 🎥 Video Walkthrough
-[![Watch Demo Video](https://img.shields.io/badge/Demo%20Video-Watch%20Walkthrough-red?style=for-the-badge&logo=youtube)](https://your-video-link-or-drive-link-here)
 
-> Replace the link above with your hosted video link (YouTube, Loom, Google Drive, or GitHub Releases), or embed a local file:
 > ```markdown
 > [▶️ Watch Full Walkthrough Video](assets/demo_video.mp4)
 > ```
@@ -17,18 +15,15 @@ An enterprise-grade, multi-agent customer support desk built with **Microsoft Au
 ---
 
 ### 📸 Application Screenshots
-
 | Customer Portal (Threaded Inquiries) | Multi-Agent Autonomous Execution |
 | :---: | :---: |
-| ![Customer Portal](assets/screenshots/customer_portal.png) | ![Agent Pipeline](assets/screenshots/agent_execution.png) |
+| <img width="100%" alt="Customer Portal" src="https://github.com/user-attachments/assets/d77a7ef4-a2ae-4f4e-8d1d-bc0d69b4f80b" /> | <img width="100%" alt="Agent Execution" src="https://github.com/user-attachments/assets/e5d90f1a-1744-4242-a853-b840beecbac1" /> |
 | *Multilingual input & threaded history lookup* | *Real-time progress cards from AutoGen agents* |
 
 | Human Escalation Queue & Gmail Dispatch | Operations Analytics & Audit Dashboard |
 | :---: | :---: |
-| ![Escalation Queue](assets/screenshots/escalation_queue.png) | ![Analytics Dashboard](assets/screenshots/analytics_dashboard.png) |
+| <img width="100%" alt="Escalation Queue" src="https://github.com/user-attachments/assets/b036f398-f414-463f-9d31-9f05dac52a80" /> | <img width="100%" alt="Analytics Dashboard" src="https://github.com/user-attachments/assets/34367888-d622-4bf7-976c-8e88b8dbd689" /> |
 | *Review, modify AI drafts, & 1-click email dispatch* | *Interactive category metrics & full audit export* |
-
----
 
 ## 🌟 Core Features
 
@@ -151,8 +146,8 @@ An enterprise-grade, multi-agent customer support desk built with **Microsoft Au
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/cvijayvinoth/Autonomous-Multilingual-AI-Customer-Support-Desk.git
+cd cvijayvinoth
 
 # 2. Create and activate a virtual environment
 python -m venv venv
